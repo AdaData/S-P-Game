@@ -1,3 +1,6 @@
+# Dependency ignores
+Godot*
+Godot*/
 
 # Godot-specific ignores
 .import/
