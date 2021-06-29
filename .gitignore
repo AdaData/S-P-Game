@@ -1,6 +1,6 @@
 # Dependency ignores
-Godot*
-Godot*/
+GodotSharp/
+Godot*.exe
 
 # Godot-specific ignores
 .import/
